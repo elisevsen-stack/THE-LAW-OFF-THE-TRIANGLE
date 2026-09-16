@@ -1,5 +1,6 @@
 README.md THE-LAW-OFF-THE-TRIANGLE
- 
+ ![Ziyaretçi Sayısı](https://glitch.me)
+
 THE
  LAW OF THE TRIANGLE
 
